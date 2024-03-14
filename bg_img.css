@@ -1,0 +1,10 @@
+.bgimg{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png);
+    background-attachment:fixed;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.text{
+    color: rgb(192, 192, 151);
+}

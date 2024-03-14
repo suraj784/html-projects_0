@@ -1,0 +1,59 @@
+
+.navbar {
+  background-color: rgb(120, 114, 102);
+  border-radius: 45px;
+  height: 115px;
+}
+.navbar ul {
+  overflow: auto;
+}
+.navbar li {
+  float: left;
+  list-style: none;
+  margin: 50px 30px;
+}
+.navbar img {
+  float: left;
+  margin: 5px 5px;
+  padding: 3px 3px;
+}
+.navbar li a {
+  padding: 5px 5px;
+  text-decoration: none;
+  margin: 40px 30px;
+  color: #fff;
+}
+.btn {
+  float: right;
+  margin: 40px 50px;
+  padding: 5px 5px;
+  border-radius: 10px;
+  
+}
+.home,.Ifood{
+  position: relative;
+  margin: 5px;
+  width: 100%;
+  border:none;
+}
+.text{
+  position: absolute;
+  color: azure;
+  top: 10%; 
+  margin: 20px;
+  height: 200px;
+  border:none;
+  padding:500px 20px 500px 550px;
+  
+}
+.menu,.textone{
+    display: inline-block;
+    padding: 2px 2px;
+    height: 150px;
+    margin: 5px;
+}
+.textone{
+    margin: 5px;
+    padding: 5px 5px;
+    width: 130px;
+}
