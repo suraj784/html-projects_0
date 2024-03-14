@@ -1,11 +1,13 @@
 
 .navbar {
-  background-color: rgb(120, 114, 102);
+  background-color: rgba(198, 186, 131, 0.999);
   border-radius: 45px;
   height: 115px;
 }
-.navbar ul {
+.navbar ul a:hover{
   overflow: auto;
+  text-decoration: aqua;
+  color:blue
 }
 .navbar li {
   float: left;
@@ -51,6 +53,7 @@
     padding: 2px 2px;
     height: 150px;
     margin: 5px;
+    
 }
 .textone{
     margin: 5px;
